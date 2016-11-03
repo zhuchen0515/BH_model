@@ -1,2 +1,2 @@
-#README
-This is a quenching model
+# README
+>This is a quenching model package
